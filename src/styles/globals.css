@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./components/cubes.css";
+@import "./components/slider.css";
+@import "./components/button.css";
+@import "./components/projects.css";
+@import "./components/contact.css";
+
+@font-face {
+  font-family: "Dancing";
+  src: url("../../public/DancingScript-VariableFont_wght.ttf")
+}
+
+@font-face {
+  font-family: "Alkatra";
+  src: url("../../public/Alkatra-VariableFont_wght.ttf")
+}
+
+@font-face {
+  font-family: "Questrial";
+  src: url("../../public/Questrial-Regular.ttf")
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+  font-family: questrial;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: alkatra;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
