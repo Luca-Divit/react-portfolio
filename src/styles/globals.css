@@ -6,6 +6,7 @@
 @import "./components/button.css";
 @import "./components/projects.css";
 @import "./components/contact.css";
+@import "./components/icons.css";
 
 @font-face {
   font-family: "Dancing";

@@ -132,13 +132,13 @@ const Project = ({
       >
         <div>
           <h1
-            className="text-center text-xl font-semibold p-3"
+            className="text-center text-xl font-semibold p-3 dark:bg-gradient-to-r dark:from-slate-500 dark:to-slate-400"
             id="project-card-name"
           >
             {name}
           </h1>
         </div>
-        <div className={` p-4 border bg-gray-50 m-auto md:m-0 `}>
+        <div className={` p-4 border bg-gray-50 m-auto md:m-0 dark:bg-slate-700 dark:border-none`}>
           <p
             className="my-3"
             dangerouslySetInnerHTML={{ __html: replaceMarkup(desc) }}

@@ -4,6 +4,7 @@ import Main from '../components/Main';
 import About from '../components/About';
 import Projects from '../components/Projects';
 import Contact from '../components/Contact';
+import Footer from '../components/Footer';
 import { useState } from 'react';
 
 const Home = () => {
@@ -16,11 +17,14 @@ const Home = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Navbar darkMode={darkMode} onClick={() => setDarkMode(!darkMode)} />
-      <Main />
-      <About />
-      <Projects />
-      <Contact />
+      <div className="dark:bg-slate-700">
+        <Navbar darkMode={darkMode} onClick={() => setDarkMode(!darkMode)} />
+        <Main />
+        <About />
+        <Projects />
+        <Contact darkMode={darkMode} />
+        <Footer />
+      </div>
     </div>
   )
 }

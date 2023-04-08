@@ -11,7 +11,7 @@ import findMobile from '../assets/images/findMobile.gif'
 
 const Projects = () => {
   return (
-    <div className="project-area py-2">
+    <div className="project-area py-2 dark:bg-gradient-to-r dark:from-slate-500 dark:to-slate-400 dark:text-white">
       <section id="projects">
       <h1 className="text-5xl p-4 font-medium my-16">Projects</h1>
       {/* Ensure desktop images are at 16:9 ratio */}

@@ -7,6 +7,10 @@
   background: -webkit-linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );
 }
 
+.gradient-hoverdm:hover {
+  background: -webkit-linear-gradient( 174.2deg,  rgba(100,116,139,1) 7.1%, rgba(148,163,184,1) 67.4% )
+}
+
 @media (min-width: 1250px) {
   .contact-socials {
     width: 2rem;
