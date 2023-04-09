@@ -4,14 +4,13 @@ const About = () => {
       <div>
         <h2 className="my-3 text-5xl">Skills</h2>
         <ul>
-          <li><h2 className="text-xl">Javascript (ES6+)</h2></li>
-          <li><h2 className="text-xl">React</h2></li>
-          <li><h2 className="text-xl">Next.js</h2></li>
-          <li><h2 className="text-xl">Node.js</h2></li>
-          <li><h2 className="text-xl">Ruby</h2></li>
-          <li><h2 className="text-xl">Ruby on Rails</h2></li>
-          <li><h2 className="text-xl">Rspec</h2></li>
-          <li><h2 className="text-xl">Jest</h2></li>
+          <li><h2 className="text-2xl">Javascript (ES6+)</h2></li>
+          <li><h2 className="text-2xl">React</h2></li>
+          <li><h2 className="text-2xl">Next.js</h2></li>
+          <li><h2 className="text-2xl">Node.js</h2></li>
+          <li><h2 className="text-2xl">Ruby</h2></li>
+          <li><h2 className="text-2xl">Ruby on Rails</h2></li>
+          <li><h2 className="text-2xl">Rspec</h2></li>
         </ul>
       </div>
       <div className="text-end w-9/12 ml-auto lg:w-4/12">
