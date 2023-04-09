@@ -201,8 +201,9 @@ const Contact = (props) => {
           px-6
           py-2.5
           text-white
-          font-medium
-          text-xs
+          font-extrabold
+          text-sm
+          drop-shadow-sm
           leading-tight
           uppercase
           rounded
@@ -213,7 +214,7 @@ const Contact = (props) => {
           ${
             submitted
               ? 'bg-green-600 hover:bg-green-700 hover:shadow-lg focus:bg-green-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-green-800 active:shadow-lg'
-              : ' bg-amber-400 hover:bg-amber-500 hover:shadow-lg focus:bg-amber-500 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-amber-600 active:shadow-lg dark:bg-slate-600 dark:hover:bg-slate-700 dark:hover:shadow-lg dark:focus:bg-slate-700 dark:focus:shadow-lg dark:focus:outline-none dark:focus:ring-0 dark:active:bg-slate-800 dark:active:shadow-lg'
+              : 'bg-[#f4c596] hover:bg-orange-400 hover:shadow-lg focus:bg-amber-500 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-amber-600 active:shadow-lg dark:bg-slate-600 dark:hover:bg-slate-700 dark:hover:shadow-lg dark:focus:bg-slate-700 dark:focus:shadow-lg dark:focus:outline-none dark:focus:ring-0 dark:active:bg-slate-800 dark:active:shadow-lg'
           }
           `}
               >
