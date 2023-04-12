@@ -8,7 +8,7 @@ const Main = () => {
           I create useful and visually appealing web applications using the latest technologies and tools.
         </p>
       </div>
-        <div className=" bg-gray-400 h-16 w-7 rounded-2xl flex justify-center mx-auto py-1 lg:relative md:relative sm:relative xs:relative -top-32">
+        <div className=" bg-gray-400 h-16 w-7 rounded-2xl flex justify-center mx-auto py-1 bar">
           <a href="#about" className="z-10">
             <div className="pin bg-slate-50 w-4 h-4 rounded-full"></div>
           </a>
