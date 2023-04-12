@@ -7,6 +7,12 @@
   top: -9rem;
 }
 
+@media only screen and (max-width: 1250px) {
+  .media {
+    margin-top: 11rem !important;
+  }
+}
+
 @keyframes slide {
 
   0%{
