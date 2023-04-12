@@ -2,6 +2,11 @@
   animation: slide 1.2s linear infinite;
 }
 
+.bar {
+  position: relative;
+  top: -9rem;
+}
+
 @keyframes slide {
 
   0%{
