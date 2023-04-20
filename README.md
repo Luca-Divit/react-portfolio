@@ -17,7 +17,7 @@ I'm a full stack developer 👨🏻‍💻 and coding teacher 👨🏻‍🏫 @<
 - Light/dark mode toggle
 - Desktop and mobile friendly
 - Projects preview
-- Animations
+- Framer Motion Animations
 
 
 ## 
