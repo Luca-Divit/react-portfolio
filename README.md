@@ -29,4 +29,6 @@ If you like it please leave a ⭐️ also feel free to reach out on:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di-vittorio/)
 
+<p align="center"><a href="https://hits.sh/github.com/Luca-Divit/react-portfolio/"><img alt="Hits" src="https://hits.sh/github.com/Luca-Divit/react-portfolio.svg?style=plastic&label=Visitors&extraCount=143&color=007ec6"/></a></p>
+
 
