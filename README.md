@@ -1,6 +1,6 @@
 
 # Hi, I'm Luca! 👋
-I'm a Software Engineer 👨🏻‍💻 based in London and coding teacher 👨🏻‍🏫 @<a href="https://www.lewagon.com/">Le Wagon</a>
+I'm a Software Engineer 👨🏻‍💻 based in London and former coding teacher 👨🏻‍🏫 @<a href="https://www.lewagon.com/">Le Wagon</a>
 
 ## Welcome to:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.lucadivittorio.com)
