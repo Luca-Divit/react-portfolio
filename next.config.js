@@ -1,6 +1,10 @@
-/** @type {import('next').NextConfig} */
+/** @type {import('next').Next.jsConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-}
+  output: "export",
+  images: {
+    unoptimized: true,
+  },
+  basePath: "/react-portfolio",
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
