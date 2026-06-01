@@ -1,34 +1,43 @@
+# 👋 Hey, I'm Luca
 
-# Hi, I'm Luca! 👋
-I'm a Software Engineer 👨🏻‍💻 based in London and former coding teacher 👨🏻‍🏫 @<a href="https://www.lewagon.com/">Le Wagon</a>
+### Software Engineer ⚡ Former Coding Teacher @ Le Wagon 👨🏻‍🏫
 
-## Welcome to:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://luca-divit.github.io/react-portfolio/)
+I build fast, modern, and user-focused web applications with a passion for great UX, clean code, and beautiful interfaces.
 
+---
 
+## 🚀 Portfolio
 
-## 🛠 Built with
-- React
-- Next.js
+[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white)](https://luca-divit.github.io/react-portfolio/)
 
+> A collection of my projects, skills, and the technologies I love building with.
 
-## Features
+---
 
-- Light/dark mode toggle
-- Desktop and mobile friendly
-- Projects preview
-- Framer Motion Animations
+## ✨ Highlights
 
+- 🌙 Dark / Light Mode
+- 📱 Fully Responsive
+- 🎨 Smooth Framer Motion Animations
+- ⚡ Lightning Fast Performance
+- 💼 Featured Projects Showcase
 
-## 
+---
 
-If you like it please leave a ⭐️ also feel free to reach out on: 
+## 🛠 Tech Stack
 
+**React • Next.js • TypeScript • Framer Motion**
 
+---
 
+## 🤝 Let's Connect
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di-vittorio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di-vittorio/)
 
-<p align="center"><a href="https://hits.sh/github.com/Luca-Divit/react-portfolio/"><img alt="Hits" src="https://hits.sh/github.com/Luca-Divit/react-portfolio.svg?style=plastic&label=Visitors&extraCount=143&color=007ec6"/></a></p>
+⭐ If you like the project, drop a star!
 
-
+<p align="center">
+  <a href="https://hits.sh/github.com/Luca-Divit/react-portfolio/">
+    <img alt="Visitors" src="https://hits.sh/github.com/Luca-Divit/react-portfolio.svg?style=plastic&label=Visitors&extraCount=1421&color=007ec6"/>
+  </a>
+</p>
